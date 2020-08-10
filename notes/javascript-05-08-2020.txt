@@ -1,0 +1,171 @@
+JavaScript:
+
+  HTML,CSS we can develop a static webpage. 
+ 
+  For that static webpage(html web page) to bring dynamic nature JavaScript.
+
+  JavaScript is scripting language. 
+
+  Programming Language -> requires compilation
+  Scripting Language -> interpreted language
+
+  to bring life to a static webpage.
+
+
+  Intially -> LiveScript.
+   
+  LiveScript -> JavaScript.
+
+
+ JavaScript as client side scripting language.
+
+  We execute JavaScript on browser.
+
+  Allmost all the Browsers consists of scripting engines.
+
+  Multiple JavaScript engines are available in market.
+
+  Chorme -> V8 engine
+  IE -> Chakra
+  Mozilla -> SpiderMonkey
+  Opera -> V8
+  
+
+  JavaScript -> ECMAScript 
+
+  1999-2000
+
+   era -> virus scripting. 
+
+
+
+ W3C -> ECMAScript 
+
+
+  JavaScript intially was developed only in 10 days, to validate the data a client     side.
+
+  ECMAScript -> 11th Version.
+
+   1 ->,5,6 11
+
+
+ Fundamental of Scripting Language.
+
+    Variable declaration.
+    Datatypes.
+    conditional and control statements
+    functions
+    Different of functions.
+    Arrays
+    
+
+    OO in JavaScript
+
+
+
+  To learn java, use tool, VisualStudioCode editor.
+
+
+  Download and install VisualStudioCode.
+
+  In a webpage we write javascript inside <scritp> tag
+  or else we can write javascript in scripting file with extension ".js"
+ 
+
+  Declaration of variable:
+
+     var variable_name; -> before ECMAScript 5 version.
+
+     From ECMAScript 5:
+            var variable_name;
+            let variable_name;
+
+
+    let keyword is bound with the scope.
+
+      {
+          var x;
+      }
+
+      variable x can be used inside and outside of the block of also.
+
+      {
+          let x;
+      }
+
+      variable x can be used only inside the block.
+
+
+
+   in javascript semicolons are optional, but it is highly recommended to use semicolons.
+
+
+
+
+ Datatypes:
+
+    JavaScript is dynamically datatype scripting language.
+
+    Java -> datatype (int,float,double,boolean,etc...)
+
+         int x ; I can intialize only integer values to x.
+
+
+    var num;
+
+    num = 10;
+    num = 10.0
+    num = "10"
+    num = '1';
+    num = 1;
+    num = true;
+
+
+  output statment:
+==========================
+
+    1. Output as alert.
+             alert() function.
+    2. Output on webpage
+             document.write() ->function
+
+    3. Output on browser console.
+
+
+
+ Intialization:
+====================
+
+
+number,boolean,string,date,array
+
+predefined values:
+     null          -> reference
+     undefined     -> primitive dataype
+     NAN -> not a number
+     Infinity 
+
+Operators:
+   
+   Arithmatic (+,-,*,/,%)
+   comparisional or relation operators
+      >,<,>=,<=,==,!=,  ===
+   logical operators (&&, ||, !)
+   terinary operators. (condition?expression1:expression2)
+
+  
++ (addition/concation)
+
+   
+Conditional:
+   if,else,if-else-if,nested-if, switch
+
+control:
+   for,nested-for,while,do-while, for-in, for-of
+
+
+
+
+
+
+
